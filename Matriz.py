@@ -1,3 +1,4 @@
+#Este programa gera uma matriz com valores aleatórios
 from random import randint
 matriz = [[[], [], []], [[], [], []], [[], [], []]]
 

@@ -11,7 +11,6 @@ print("Estou pensando........")
 sleep(1)
 print("Pensei :)")
 
-
 while True:
     cont += 1
     playerChoose = int(input("Digite sua tentativa: "))

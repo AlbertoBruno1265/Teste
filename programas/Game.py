@@ -7,13 +7,9 @@ pcChoose = randint(1, 10)
 print("Vamos jogar um jogo!")
 sleep(0.5)
 print("Eu escolho um número em 1 e 10 e você tenta adivinhar, cobinados?")
-print("Estou pensando",end="")
-for i in range(0, 5):
-    print(".", end="")
-    sleep(0.75)
-
-print("\nPensei :)")
-sleep(0.5)
+print("Estou pensando........")
+sleep(1)
+print("Pensei :)")
 
 
 while True:

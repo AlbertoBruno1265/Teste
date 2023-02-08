@@ -6,4 +6,4 @@ Agora estou fazendo certo, acho que irei migrar do Pycharm para VSC
 
 Estou enviando esta mensagem pelo site do Github
 
-E está é pelo próprio VSC
+E esta é pelo próprio VSC

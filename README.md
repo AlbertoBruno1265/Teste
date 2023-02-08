@@ -1,9 +1,9 @@
 # Teste
 
-    Estou estudando Git e Github pra valer
+Estou estudando Git e Github pra valer
 
-    Agora estou fazendo certo, acho que irei migrar do Pycharm para VSC
+Agora estou fazendo certo, acho que irei migrar do Pycharm para VSC
 
-    Estou enviando esta mensagem pelo site do Github
+Estou enviando esta mensagem pelo site do Github
 
-    E está é pelo próprio VSC
+E está é pelo próprio VSC
